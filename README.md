@@ -4,7 +4,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=purple&size=36&center=true&vCenter=true&lines=I'm+Rasel+Sarkar👋." alt="Typing SVG" /></a>
 </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raselsarker11&label=Profile%20views&color=0e75b6&style=flat" alt="raselsarker11" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raselsarker11&label=Profile%20views&color=0e75b6&style=flat" alt="raselsarker69" /> </p>
 
 <h3 align="left">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=40px valign="bottom"> A Passionate Python / Django    Developer from Remote & On-site 
@@ -27,8 +27,9 @@
 
 
 <div align="center>
-    <a href="mailto: raselsarkercse@gmali.com" target="_blank">
+   <a href="mailto:rasel.sarker6933@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+ </a>
   </a>
     <a href="https://my-portfolio-eight-ebon-51.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-7289DA?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge" />
@@ -147,9 +148,9 @@
 <div align="left">
  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=40px valign="bottom"> Github Stats 🏅
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raselsarker11&show_icons=true&locale=en&layout=compact&theme=dark" alt="raselsarker11" /></p>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=raselsarker11&show_icons=true&locale=en&theme=dark" alt="raselsarker11" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raselsarker11&theme=dark" alt="raselsarker11" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raselsarker11&show_icons=true&locale=en&layout=compact&theme=dark" alt="raselsarker69" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=raselsarker11&show_icons=true&locale=en&theme=dark" alt="raselsarker69" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raselsarker11&theme=dark" alt="raselsarker69" /></p>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 </div>
