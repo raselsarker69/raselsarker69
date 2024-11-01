@@ -7,12 +7,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raselsarker69&label=Profile%20views&color=0e75b6&style=flat" alt="raselsarker69" /> </p>
 
 <h3 align="left">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=40px valign="bottom"> A Passionate Python / Django    Developer from Remote or On-site 
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=40px valign="bottom"> ML & Data Science Enthusiast | Research Enthusiast | Python | Full Stack: Django & React.js | REST API | 
 </h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <div align="left">
     - 🌱 I’m currently learning **Machine Learning & Data Science, Deep Learning & Generative AI**<br/>
-    - 🚀 I’m currently working on **E-commerce Project.**<br/>
+    - 🚀 I’m currently working on **Automated Dengue Disease Prediction Research paper.**<br/>
     - 🩺 Ask me about **Python, DRF, C/C++, React.js, Tailwind CSS, MySQL, PostgreSQL.**<br/>
     - 🛰️ How to reach me **rasel.sarker6933@gmail.com**<br/>
 </div>
@@ -27,7 +27,22 @@
 
 
 <div align="center>
-   <a href="mailto:rasel.sarker6933@gmail.com" target="_blank">
+ 
+<p align="center">
+  <a href="mailto:rasel.sarker6933@gmail.com"><img src="https://img.shields.io/badge/Email-rasel.sarker6933@gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="https://github.com/raselsarker69"><img src="https://img.shields.io/badge/GitHub-%40Raselsarker-lightgrey?style=flat-square&logo=github"></a>
+  <a href="https://www.linkedin.com/in/rasel-sarker-405160227/"><img src="https://img.shields.io/badge/LinkedIn-Rasel%20Sarker-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://www.facebook.com/mdrasel.sarker.7773631"><img src="https://img.shields.io/badge/Facebook-%40Raselsarker-blue?style=flat-square&logo=facebook"></a>
+  <a href="https://www.kaggle.com/mdraselsarker"><img src="https://img.shields.io/badge/Kaggle-%40Raselsarker-blue?style=flat-square&logo=kaggle"></a>
+  <a href="https://www.youtube.com/@raselsarker69"><img src="https://img.shields.io/badge/YouTube-Rasel%20Sarker-red?style=flat-square&logo=youtube"></a>
+  <a href="https://www.facebook.com/groups/832585175685301"><img src="https://img.shields.io/badge/Facebook%20Group-Rasel%20Sarker%20Group-blue?style=flat-square&logo=facebook"></a>
+
+  <br>
+  <img src="https://img.shields.io/badge/Phone-%2B8801581528651-green?style=flat-square&logo=whatsapp">
+</p>
+
+ 
+ <!--  <a href="mailto:rasel.sarker6933@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
  </a>
   </a>
@@ -44,20 +59,36 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
   
-  <a href="https://www.youtube.com/channel/UCmUXb0GVw5HfF7DBSg8rqAg" target="_blank">
+  <a href="https://www.youtube.com/@raselsarker69" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge" />
   </a>
   
   <a href="rasel_sarker" target="_blank" >
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
   </a>
-</div>
+</div> -->
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=30px valign="bottom"> Technologies-Framework-Tools 🎯</h2>
 
 <p align="left">
+  <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Machine%20Learning-007ACC?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning Badge" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Data_science" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Data%20Science-2ECC71?style=for-the-badge&logo=jupyter&logoColor=white" alt="Data Science Badge" />
+ </a>
+ <a href="https://en.wikipedia.org/wiki/Computer_vision" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Computer%20Vision-95A5A6?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision Badge" />
+ </a>
+ <a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/NLP-9B59B6?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="NLP Badge" />
+ </a>
+ <a href="https://en.wikipedia.org/wiki/Generative_model" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Generative%20AI-F39C12?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI Badge" />
+ </a>
+
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C Badge" />
   </a>
@@ -103,12 +134,6 @@
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge" />
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-     <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite Badge" />
-  </a>
-  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva Badge" />
   </a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Badge" />
