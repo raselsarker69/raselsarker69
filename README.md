@@ -12,7 +12,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <div align="left">
     - 🌱 I’m currently learning **Machine Learning & Data Science, Deep Learning & Generative AI**<br/>
-    - 🚀 I’m currently working on **Automated Dengue Disease Prediction Research paper.**<br/>
+    - 🚀 I’m currently working on **Dengue outbreak prediction for Bangladesh.**<br/>
     - 🩺 Ask me about **Python, DRF, C/C++, React.js, Tailwind CSS, MySQL, PostgreSQL.**<br/>
     - 🛰️ How to reach me **rasel.sarker6933@gmail.com**<br/>
 </div>
